@@ -1,5 +1,8 @@
 # **C RPS**
+
 Simple rock paper scissors game.
+
+[![Development Note p.137](https://img.youtube.com/vi/b6I1dIS28DM/0.jpg)](https://www.youtube.com/watch?v=b6I1dIS28DM)
 
 # **Links(링크)**
 
